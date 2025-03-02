@@ -49,5 +49,6 @@ public class FizzBuzzFizzbuzz {
                 wait();
             }
         }
+        System.out.println(" ");
     }
 }
